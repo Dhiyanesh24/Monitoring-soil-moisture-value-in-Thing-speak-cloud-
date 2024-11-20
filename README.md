@@ -88,8 +88,8 @@ Prototype and build IoT systems without setting up servers or developing web sof
 #include <WiFi.h>
 #include "ThingSpeak.h" // always include thingspeak header file after other header files and custom macros
 #define Soil_Moisture 34
-char ssid[] = "Ezhil";   // your network SSID (name) 
-char pass[] = "123456789";   // your network password
+char ssid[] = "Dhiyanesh";   // your network SSID (name) 
+char pass[] = "gotyouskiyy";   // your network password
 int keyIndex = 0;            // your network key Index number (needed only for WEP)
 WiFiClient  client;
 
@@ -137,6 +137,8 @@ void loop()
 ```
 # CIRCUIT DIAGRAM:
 ![WhatsApp Image 2024-11-19 at 15 14 56_1bfc5d24](https://github.com/user-attachments/assets/2fef3d76-35b5-4993-afa3-633bef3aa976)
+
+
 ![WhatsApp Image 2024-11-20 at 18 03 52_f448ecb9](https://github.com/user-attachments/assets/2364b08c-371d-47be-943f-e74d0c587a0a)
 
 
