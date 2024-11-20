@@ -137,9 +137,12 @@ void loop()
 ```
 # CIRCUIT DIAGRAM:
 ![WhatsApp Image 2024-11-19 at 15 14 56_1bfc5d24](https://github.com/user-attachments/assets/2fef3d76-35b5-4993-afa3-633bef3aa976)
+![WhatsApp Image 2024-11-20 at 18 03 52_43733e4b](https://github.com/user-attachments/assets/aa045ab5-71f0-4074-92b3-c57064b88cea)
+
 
 # OUTPUT:
 ![WhatsApp Image 2024-11-18 at 06 09 18_110173b9](https://github.com/user-attachments/assets/ed8e3384-cc0a-41b7-afb0-ba605bb450ca)
+
 
 # RESULT:
 Thus the soil moisture values are updated in the Thing speak cloud using ESP32 controller.
